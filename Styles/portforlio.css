@@ -1,0 +1,12 @@
+h1 {
+  color: rgb(19, 16, 16);
+  font-family: "playfair Display", serif;
+  font-weight: bold;
+  text-align: center;
+}
+/* font-family: 'playfair Display', serif;
+font-family: 'poppins', sans-serif; */
+p {
+  font-family: "poppins", sans-serif;
+  text-align: center;
+}
