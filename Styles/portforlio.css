@@ -45,3 +45,33 @@ h1 {
   border-radius: 4px;
   font-size: 18px;
 }
+h2 {
+  font-size: 64px;
+  font-family: "playfair Display", serif;
+}
+p {
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 30px;
+}
+.btn-branding-outline {
+  background: #6c63ff;
+  color: white;
+  line-height: 27px;
+  border-radius: 4px;
+  font-size: 18px;
+  border: 1px;
+}
+
+.project-description {
+  padding: 120px 60px 0;
+  text-align: center;
+}
+@media (max-width: 900px;) {
+  h1 {
+    font-size: 60px;
+  }
+  h2 {
+    font-size: 44px;
+  }
+}
