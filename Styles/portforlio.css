@@ -75,3 +75,26 @@ p {
     font-size: 44px;
   }
 }
+.about-section h1 {
+  font-size: 64px;
+  line-height: 80px;
+}
+.about-section h2 {
+  font: 18px;
+  font-family: "poppins", sans-serif;
+  font-size: bold;
+}
+
+.about-section img {
+  border-radius: 10px;
+  width: 450px;
+  height: 450px;
+  padding: 30px;
+}
+.about-section {
+  padding: 0;
+  text-align: ;
+}
+.about-section-content {
+  margin: 30px;
+}
