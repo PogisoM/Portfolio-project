@@ -75,11 +75,11 @@ p {
     font-size: 44px;
   }
 }
-.about-section h1 {
+.content-container h1 {
   font-size: 64px;
   line-height: 80px;
 }
-.about-section h2 {
+.content-container h2 {
   font: 18px;
   font-family: "poppins", sans-serif;
   font-size: bold;
@@ -91,10 +91,18 @@ p {
   height: 450px;
   padding: 30px;
 }
-.about-section {
+.content {
   padding: 0;
   text-align: ;
 }
-.about-section-content {
+.content {
   margin: 30px;
+}
+.content h3 {
+  font-family: "poppins", sans-serif;
+  font-size: 24px;
+  line-height: 1.3;
+}
+.content p {
+  font-size: 14px;
 }
